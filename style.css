@@ -8,8 +8,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  /* scroll-behavior: smooth; */
-  /* transition: all 0.5s 0.1s; */
+  scroll-behavior: smooth; 
+  transition: all 0.6s 0.2s; 
 }
 
 html {
